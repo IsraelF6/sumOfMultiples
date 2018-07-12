@@ -10,4 +10,4 @@ are multiples of 3 or 5. There is also a small driver function with some unit te
 EX:
 if x=10
 multiples of 3 and 5 = 3, 5, 6, 9
-sum of multiples = 23
+sum of multiples = 3+5+6+9 = 23
